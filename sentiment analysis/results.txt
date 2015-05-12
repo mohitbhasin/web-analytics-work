@@ -1,0 +1,2935 @@
+excellent phone , excellent service .
+['excellent']
+[]
+Positive
+
+i am a business user who heavily depend on mobile service .
+[]
+[]
+Neutral
+
+there is much which has been said in other reviews about the features of this phone , it is a great phone , mine worked without any problems right out of the box .
+['great', 'right', 'worked']
+['problems']
+Positive
+
+just double check with customer service to ensure the number provided by amazon is for the city / exchange you wanted .
+[]
+[]
+Neutral
+
+after several years of torture in the hands of at&t customer service i am delighted to drop them , and look forward to august 2004 when i will convert our other 3 family-phones from at&t to t-mobile !
+['delighted']
+['torture']
+Neutral
+
+i have had the phone for 1 week , the signal quality has been great in the detroit area ( suburbs ) and in my recent road trip between detroit and northern kentucky ( cincinnati ) i experienced perfect signal and reception along i-75 , far superior to at &#38; t 's which does not work along several long stretches on that same route .
+['perfect', 'superior', 'great', 'work']
+[]
+Positive
+
+i have owned motorola , panasonic and nokia phones over the last 8 years and generally prefer nokia , this phone combines many of the best nokia features , the only feature missing for me is the voice recognition .
+['prefer', 'best']
+[]
+Positive
+
+my favorite features , although there are many , are the speaker phone , the radio and the infrared .
+['favorite']
+[]
+Positive
+
+the speaker phone is very functional and i use it in the car , very audible even with freeway noise .
+['audible']
+['noise']
+Neutral
+
+the infrared is a blessing if you have a previous nokia and want to transfer your old phone book to this phone , saved me hours of re-entering my numbers .
+['blessing']
+[]
+Positive
+
+the combination of the nokia 6610 and t-mobile service ( signal , price , service ) is a winner , i highly recommend it .
+['winner', 'recommend']
+[]
+Positive
+
+good phone , so-so service .
+['good']
+[]
+Positive
+
+the day finally arrived when i was sure i 'd leave sprint .
+[]
+[]
+Neutral
+
+after years with that carrier 's expensive plans and horrible customer service , portability seemed heaven-sent .
+[]
+['expensive', 'horrible']
+Negative
+
+i 'd always eyed the nokia phones and had heard decent things about t-mobile , so i gave it a whirl .
+['decent']
+[]
+Positive
+
+here 's the brief synopsis : the phone is tiny , cute , feels kind of " plastic-like " ( as if it might break ) , but seems pretty sturdy .
+['cute', 'pretty', 'sturdy']
+['break']
+Positive
+
+it has lots of little cute features , my favorite being the games and the pim ( personal information manager -- i.e. organizer ) , and the radio !
+['cute', 'favorite']
+[]
+Positive
+
+i spent hours setting up the stations ( accepts about 13-14 , i believe ) , though the reception is unpredictable .
+[]
+['unpredictable']
+Negative
+
+also , you need to have the headset plugged in all the time to have the radio work and that can get tedious .
+['work']
+['tedious']
+Neutral
+
+the headset that comes with the phone has good sound volume but it hurts the ears like you cannot imagine !
+['good', 'like']
+['hurts']
+Positive
+
+the phone comes with okay ringtones , some decent backgrounds / screensavers , but the phone has very little memory ( mine had 230kb as it arrived from amazon , so you do n't have too many options on what you can put on there ) .
+['decent']
+[]
+Positive
+
+the colors on the screen are not as crisp as i 'd have liked them to be .
+['liked', 'crisp']
+[]
+Positive
+
+however , it serves its purpose .
+[]
+[]
+Neutral
+
+the backlight on the phone goes off way too quickly ( dangerous when you 're driving at night ) , and there 's no way to change this --
+[]
+['dangerous']
+Negative
+
+i checked with nokia .
+[]
+[]
+Neutral
+
+the buttons on the phone are small , even for my small fingertips , but you get used to them rather quickly .
+[]
+[]
+Neutral
+
+the menu options are uncreative , as you can 't see a full screen of menu items to pick from ; you have to scroll up and down to find what you 're looking for ( yes , this is minor , but not when you 're trying to keep your eye on the road ! ) .
+[]
+['uncreative']
+Negative
+
+more downside to this phone ?
+[]
+['downside']
+Negative
+
+the volume .
+[]
+[]
+Neutral
+
+oh my goodness --
+['goodness']
+[]
+Positive
+
+i have excellent hearing but the volume level on this phone is especially quiet .
+['quiet', 'excellent']
+[]
+Positive
+
+forget talking on it in public -- you just can 't hear the other person !
+[]
+[]
+Neutral
+
+on the up-side , the phone has amazing battery life .
+['amazing']
+[]
+Positive
+
+i do like this phone overall ( would give it a 3.5 ) , but unforutnately , i am returning it .
+['like']
+[]
+Positive
+
+i was surprised by t-mobile 's service .
+[]
+[]
+Neutral
+
+i assumed they had exceptional service , but their reception in my area ( los angeles ) is horrendous .
+['exceptional']
+['horrendous']
+Neutral
+
+reason ?
+[]
+[]
+Neutral
+
+they piggy-back on cingular 's service .
+[]
+[]
+Neutral
+
+also , their t-zones , although cheap ( $ 4.99 / mo. ) never works .
+['works']
+['cheap']
+Neutral
+
+since i received the phone , i spent countless hours on the phone with customer service reps who promised t-zones would work " in 24 hours " .
+['work', 'promised']
+[]
+Positive
+
+i must have heard this about a dozen times over the span of 2 weeks , when t-zones never worked .
+['worked']
+[]
+Positive
+
+24 hours ?
+[]
+[]
+Neutral
+
+by what time standards -- martian ?
+[]
+[]
+Neutral
+
+apparently , t-mobile is heavily back-logged and can 't keep up with demands .
+[]
+['back-logged']
+Negative
+
+also , they 'd forgotten to add " wap " capability to my service ( duh ) , so that took another 4-5 days of figuring out .
+['capability']
+[]
+Positive
+
+in all fairness , customer reps are very nice , and they ( most of them ) try hard to answer your questions .
+['nice', 'fairness']
+['hard']
+Positive
+
+but they do have this annoying habit of asking you if they 've answered all your questions , even if they did n't , to which they always seem to expect a " yes " answer from you .
+[]
+['annoying']
+Negative
+
+i realize this is for quality assurance purposes , but i should have the right to say when my questions have not been answered ( i.e. me :
+['right', 'assurance']
+[]
+Positive
+
+" when will my t-zones work ? " , csr :
+['work']
+[]
+Positive
+
+" i 'm not sure " . ) .
+[]
+[]
+Neutral
+
+umm , well , thanks for nothing .
+['well']
+[]
+Positive
+
+this one csr insisted on trying to get me to say that he 'd answered all my questions ( same interaction as i just described ) , and well .. .
+['well']
+[]
+Positive
+
+that was annoying .
+[]
+['annoying']
+Negative
+
+t-mobile is trying very hard , and again -- they do have pretty good csr 's .
+['good', 'pretty']
+['hard']
+Positive
+
+however , the calls constantly drop in my area and i experince mega-static , to the point where i 'd have to dial numbers 6-7 times to get a clear line .
+['clear']
+[]
+Positive
+
+and no t-zones .
+[]
+[]
+Neutral
+
+so what 's the point ?
+[]
+[]
+Neutral
+
+i 'm staying with sprint , and though i fear that their csr is n't nearly as good as t-mobile 's , the clarity of their reception is exceptional .
+['good', 'clarity', 'exceptional']
+['fear']
+Positive
+
+i 've bought the very expensive sanyo 5500/vm4500 -- which i love -- and i 'm okay with my services .
+['love']
+['expensive']
+Neutral
+
+guess all that glitters is not gold .
+['gold']
+[]
+Positive
+
+it was worth a shot -- too bad it did n't work out .
+['work', 'worth']
+['bad']
+Positive
+
+hope someone else has better luck !
+['better', 'luck']
+[]
+Positive
+
+the phone refused to die .
+[]
+['die', 'refused']
+Negative
+
+i bought one of these phones in kuwait to use with the mtc prepaid telephone service ez because i would be able to use it when i return to the states with t-mobile .
+[]
+[]
+Neutral
+
+recently i accidently washed my telephone with my laundry through two complete 18 minute wash cycles of a washing machine .
+[]
+[]
+Neutral
+
+disgusted with myself after i found the phone in the bottom of the washing machine , i was about to throw it away when one of my fellow soldiers asked if he could dry it out for me in an effort to revive the phone .
+['revive']
+['disgusted']
+Neutral
+
+two days later the phone was returned to me in complete working order .
+[]
+[]
+Neutral
+
+while i like the performance of the phone in every regard , i would buy another one solely upon the apparent indestructibility of it .
+['regard', 'like']
+[]
+Positive
+
+i highly recommend a nokia 6610 .
+['recommend']
+[]
+Positive
+
+best phone for free .
+['best', 'free']
+[]
+Positive
+
+i 've had an assortment of cell phones over the years ( motorola , sony ericsson , nokia etc. ) and in my opinion , nokia has the best menus and promps hands down .
+['best']
+[]
+Positive
+
+no other color phone has the combination of features that the 6610 offers .
+[]
+[]
+Neutral
+
+from the speakerphone that can be used up to 15 feet away with clarity , to the downloadable poly-graphic megatones that adds a personal touch to this nifty phone .
+['clarity', 'nifty']
+[]
+Positive
+
+whether you 're taking a brisk jog , waiting for a bus or just having lunch at the park , you 'll be glad you had the fm radio .
+['brisk', 'glad']
+[]
+Positive
+
+wish it were a flip phone , but thats not a deal breaker !
+[]
+[]
+Neutral
+
+glad to own .
+['glad']
+[]
+Positive
+
+i have had this phone for about 5 months .
+[]
+[]
+Neutral
+
+i treat the battery well and it has lasted .
+['well']
+[]
+Positive
+
+at my heaviest usage , i must recharge after 3 days .
+[]
+[]
+Neutral
+
+it lasts about 5 days otherwise and has lasted up to 10 when i was making very few calls .
+[]
+[]
+Neutral
+
+signal strength will affect the battery life .
+[]
+[]
+Neutral
+
+frequent signal searches eat up battery power .
+[]
+[]
+Neutral
+
+i took great care of the screen , till i realized that the part that might get scratched is part of the cover .
+['great']
+['scratched']
+Neutral
+
+i can replace that if the scratch is unbearable to look at .
+[]
+['unbearable', 'scratch']
+Negative
+
+the volume level of the phone is not all that good .
+['good']
+[]
+Positive
+
+some of the higher pitched rings are very easy to hear , but not easy to listen to .
+['easy']
+[]
+Positive
+
+the more subtle tones that were included with the phone are hard to hear at times .
+[]
+['hard']
+Negative
+
+the vibration is not top .
+['top']
+['vibration']
+Neutral
+
+it is a teeny phone , so it is hard to put a big mechanism in .
+[]
+['hard']
+Negative
+
+i do n't use the vibration , because it is often easier to hear it vibrate then to feel it .
+['easier']
+['vibrate', 'vibration']
+Negative
+
+vibration was not even listed as a feature when i purchased this .
+[]
+['vibration']
+Negative
+
+so it was no loss .
+[]
+['loss']
+Negative
+
+overall this has been my favorite phone that i have owned .
+['favorite']
+[]
+Positive
+
+great battery life , perfect size , but a tid bit quieter than i would like .
+['perfect', 'great', 'quieter', 'like']
+[]
+Positive
+
+i do hope that they offer more faceplate options .
+[]
+[]
+Neutral
+
+i am bored with the silver look .
+[]
+['bored']
+Negative
+
+cool .
+['cool']
+[]
+Positive
+
+it has a nice color screen .
+['nice']
+[]
+Positive
+
+it is small .
+[]
+[]
+Neutral
+
+radio is awsome , but it does n't work unless you have the earpice in .
+['awsome', 'work']
+[]
+Positive
+
+that is a major minus , but its not that bad .
+[]
+['bad']
+Negative
+
+t-mobile was a pretty good server .
+['good', 'pretty']
+[]
+Positive
+
+it has 2 games .
+[]
+[]
+Neutral
+
+they are not wowable good .
+['good']
+[]
+Positive
+
+you have to buy better ones .
+['better']
+[]
+Positive
+
+it also does n't have voice activated dialing . big minus ! !
+[]
+[]
+Neutral
+
+great phone , but no warranty !
+['great']
+[]
+Positive
+
+this is a very nice phone , but there is no warranty on it .
+['nice']
+[]
+Positive
+
+nokia will not cover phones bought from amazon .
+[]
+[]
+Neutral
+
+we got two phones for the t-mobile family plan ( indeed very easy to switch to the family plan ) and one came with a broken headphone ( can hear but cannot be heard ) and one died today after less than two weeks of use .
+['easy']
+['broken', 'died']
+Negative
+
+i 'll see how much help i can get from amazon and report back .
+[]
+[]
+Neutral
+
+menu flaws ? mine could n't send text messages .
+[]
+['flaws']
+Negative
+
+i upgraded to a 6610 at my local t-mobile store .
+['upgraded']
+[]
+Positive
+
+when i got it home , i discovered that the menu options for sending messages via either text or email simply were n't there :
+[]
+[]
+Neutral
+
+it defaulted to unchangeable email .
+[]
+[]
+Neutral
+
+so i spent half an hour on the phone with tech support , only to have the online tech person pull one off the shelf and tell me he had the same problem .
+['support']
+['problem']
+Neutral
+
+i returned to the store , whereupon the clerk insisted that he could make it work ; he could n't .
+['work']
+[]
+Positive
+
+he spent another half hour on the phone with tech support , to no avail .
+['support']
+[]
+Positive
+
+so i had to give up and return it , having lost about 4 hours .
+[]
+['lost']
+Negative
+
+while i had the phone , the positive features were : good sound quality and an excellent fm phone and earpiece .
+['positive', 'good', 'excellent']
+[]
+Positive
+
+negative : impossibly tiny and difficult to operate , barely visible , power button .
+[]
+['difficult', 'impossibly', 'negative']
+Negative
+
+poor visibility on the keys .
+[]
+['poor']
+Negative
+
+you have to tilt the phone around to catch the light on them .
+[]
+[]
+Neutral
+
+great speakerphone and great reception ! ! reccomend !
+['great']
+[]
+Positive
+
+the title says it all ...
+[]
+[]
+Neutral
+
+the two biggest things is the excellent working speakerphone " unlike the nokia 3650 " and the superb reception nokia is known for in the gsm phones they make ...
+['excellent', 'superb']
+[]
+Positive
+
+only con i can think of is no camera ... .
+[]
+[]
+Neutral
+
+no big deal for the size . .
+[]
+[]
+Neutral
+
+this phone is a winner ...
+['winner']
+[]
+Positive
+
+perfect .
+['perfect']
+[]
+Positive
+
+anything this phone does , it does perfectly .
+['perfectly']
+[]
+Positive
+
+the speakerphone , the radio , all features work perfectly .
+['perfectly', 'work']
+[]
+Positive
+
+the speakerphone :
+[]
+[]
+Neutral
+
+this phone has a very cool and useful feature -- the speakerphone .
+['useful', 'cool']
+[]
+Positive
+
+as said before this works perfectly .
+['perfectly', 'works']
+[]
+Positive
+
+you can adjust the volume to be heard anywhere or so that it does n't make that big of a disturbance .
+[]
+['disturbance']
+Negative
+
+the person on the other end of the call can hear you perfectly .
+['perfectly']
+[]
+Positive
+
+you can be up to about 3 feet away from it and it will still work perfectly .
+['work', 'perfectly']
+[]
+Positive
+
+only one complaint about the speakerphone , you can only activate the speakerphone feature once the person you are calling answers the phone , not while it is ringing .
+[]
+['complaint']
+Negative
+
+the radio :
+[]
+[]
+Neutral
+
+this phone is one of the few phones that have an fm radio tuner built in .
+[]
+[]
+Neutral
+
+this radio receives fairly decent reception but not nearly as good as a normal radio , but as long as the stations are coming in clearly the phone 's radio should work perfectly .
+['fairly', 'good', 'decent', 'work', 'perfectly', 'clearly']
+[]
+Positive
+
+tri-band :
+[]
+[]
+Neutral
+
+one highly beneficial feature of this phone ( at least to me ) is that it can be used anywhere in the world except a few countries that do not use gsm , a few in asia .
+['beneficial']
+[]
+Positive
+
+i bought this phone for my trip to south africa and it worked almost perfectly .
+['worked', 'perfectly']
+[]
+Positive
+
+the only problem i had was a small glitch with t-mobile .
+[]
+['glitch', 'problem']
+Negative
+
+anywhere i went in south africa this phone received full bar reception .
+[]
+[]
+Neutral
+
+if it worked like that in south africa , i imagine it would just work without a hitch in europe .
+['worked', 'work', 'like']
+[]
+Positive
+
+sold in other parts of the world :
+[]
+[]
+Neutral
+
+another benefit of this phone is that it is truly an international phone ; the 6610 is sold in almost everywhere in the world .
+['benefit']
+[]
+Positive
+
+this means that there is a good chance that this phone will not break easily like typical american phones .
+['good', 'like']
+['break']
+Positive
+
+or on the rare occasion it does you can bring it into any t-mobile store , which are located in many countries in europe .
+[]
+[]
+Neutral
+
+i cannot stress enough how big of a benefit it is to have a european phone and a european company providing your cell phone service .
+['enough', 'benefit']
+['stress']
+Positive
+
+able to use service in another country :
+[]
+[]
+Neutral
+
+if you decide to go to another country for an extended period of time , you can just buy a sim card from a service provider in that country .
+[]
+[]
+Neutral
+
+you would then have a phone number in that country and not have to pay for international roaming in that country .
+[]
+[]
+Neutral
+
+size and weight :
+[]
+[]
+Neutral
+
+when you put this phone in your pocket you forget it is there ; it is unbelievably small and oh , so light .
+[]
+['unbelievably']
+Negative
+
+this is a benefit for many reasons ; one being just for appearance , your pants wo n't be bulging with this phone in your pocket .
+['benefit']
+[]
+Positive
+
+battery life :
+[]
+[]
+Neutral
+
+the battery life on this phone is surreal .
+['surreal']
+[]
+Positive
+
+it lasts , truly , 7 days on standby .
+[]
+[]
+Neutral
+
+i 've used the speakerphone for almost two hours once and the battery did not even go down one single bar .
+[]
+[]
+Neutral
+
+it is amazing that the battery lasts so long when the phone is so small and light .
+['amazing']
+[]
+Positive
+
+this phone has many other features , ir , ; just to name one , the features above i view as the most beneficial .
+['beneficial']
+[]
+Positive
+
+the phone has a few minor inconveniences , but only because it lacks those features , bluetooth and high spend internet , but there are very few problems with things that you expected this phone to do .
+[]
+['lacks', 'problems']
+Negative
+
+overall , i highly recommend this phone .
+['recommend']
+[]
+Positive
+
+it is a perfect phone in such a small and appealing package .
+['perfect', 'appealing']
+[]
+Positive
+
+so far i am more than pleased .
+['pleased']
+[]
+Positive
+
+i love the pros and cons reviews so here ya go :
+['pros', 'love']
+['cons']
+Positive
+
+pros :
+['pros']
+[]
+Positive
+
+size - extremely small and convenient will fit in your pocket and not bother you .
+['convenient']
+['bother']
+Neutral
+
+sound - excellent polyphonic ringing tones are very nice ( check cons ) it also doubles as a radio , which is a nice feature when you are bored .
+['excellent', 'nice']
+['bored', 'cons']
+Neutral
+
+speakerphone - loud and clear has some nice extra features like currency converter and a stopwatch .
+['clear', 'like', 'nice']
+['loud']
+Positive
+
+surfing the web on it is nice as well , i just wish there were more wap pages available .
+['available', 'well', 'nice']
+[]
+Positive
+
+cons :
+[]
+['cons']
+Negative
+
+ring tones only come with crazy songs and annoying rings , there is only one ring that sounds close to a regular ring .
+[]
+['crazy', 'annoying']
+Negative
+
+the screen is easily scratched but if you have the warranty you should be able to swap it out .
+[]
+['scratched']
+Negative
+
+games kind of stink and you cant download them you have to get the link cable to get additional games .
+[]
+['stink']
+Negative
+
+great buy .
+['great']
+[]
+Positive
+
+nice little phone ... light compact . .
+['compact', 'nice']
+[]
+Positive
+
+great features . .
+['great']
+[]
+Positive
+
+buttons do seem a little sticky tho .. and the hands free kits ' connector might be a problem ..
+['free']
+['problem', 'sticky']
+Negative
+
+it works ... as a phone !
+['works']
+[]
+Positive
+
+perhaps there is a tone of irony in the title of my review , but i actually mean it in earnest .
+['earnest']
+['irony']
+Neutral
+
+after having had my heart broken by a sexy piece of hardware that simply would n't perform .
+['sexy']
+['broken']
+Neutral
+
+i replaced it with this not-quite-so-dazzling , but definitely more functional device .
+[]
+[]
+Neutral
+
+although the nokia 6610 is a little short on the features department , it is an outstanding piece of hardware for doing what it was primarily meant to do : to be a wireless telephone .
+['outstanding']
+[]
+Positive
+
+the reception and sound quality are top-notch .
+['top-notch']
+[]
+Positive
+
+i can routinely talk on the phone in my house in the suburbs , which is an unaccustomed luxury , even with t-mobile service .
+['luxury']
+['unaccustomed']
+Neutral
+
+i like the size and weight of this little critter .
+['like']
+[]
+Positive
+
+i am able to carry it close to my body , in places where other phones are not so easily concealed .
+[]
+[]
+Neutral
+
+the keys are close together , and the layout is a bit funky in relation to standard rectangular layout keypads , but it 's not too weird .
+[]
+['weird', 'funky']
+Negative
+
+the fact that the " 0 " key is the space key for text input is a bit confusing , as many phones use the " # " key instead .
+[]
+['confusing']
+Negative
+
+but that 's not an insurmoutable obstacle .
+[]
+['obstacle']
+Negative
+
+the screen is bright , easy to see in the daylight , with nice colors .
+['bright', 'easy', 'nice']
+[]
+Positive
+
+it receives very nice mms pictures from other gsm phones .
+['nice']
+[]
+Positive
+
+there are some features in the user interface that i find a little inconvenient .
+[]
+[]
+Neutral
+
+the menu options appear one at a time , taking up the whole screen , and one has to scroll down one by one , or have memorized where they are in the menu order , to select them by using the number keypad .
+[]
+[]
+Neutral
+
+thumbs down on that one .
+[]
+[]
+Neutral
+
+the vibrate setting is loud !
+[]
+['loud', 'vibrate']
+Negative
+
+so loud , really , that it does n't work terribly well as a silent ringer option .
+['work', 'well', 'silent']
+['terribly', 'loud']
+Positive
+
+but , then again , the ringer can be so loud that i heard it ringing inside my office , when i was already out on the street .. .
+[]
+['loud']
+Negative
+
+which was a good thing , because i realized i had forgotten my phone ...
+['good']
+[]
+Positive
+
+other things that i miss are voice-activated dialing and a standard 2.5 mm headset jack .
+[]
+['miss']
+Negative
+
+i 'd like a camera phone , but i 'd rather have a phone than a toy that takes pictures but makes no calls ...
+['like']
+[]
+Positive
+
+pros :
+['pros']
+[]
+Positive
+
+- light , compact design
+['compact']
+[]
+Positive
+
+- solid , high-quality construction
+['solid', 'high-quality']
+[]
+Positive
+
+- well-backlit keypad
+['well-backlit']
+[]
+Positive
+
+- outstanding signal reception
+['outstanding']
+[]
+Positive
+
+- excellent sound quality
+['excellent']
+[]
+Positive
+
+- bright , visible screen
+['bright']
+[]
+Positive
+
+- speakerphone
+[]
+[]
+Neutral
+
+- very long-lasting battery life
+['long-lasting']
+[]
+Positive
+
+cons :
+[]
+['cons']
+Negative
+
+- some features in the user interface
+[]
+[]
+Neutral
+
+- no voice activated dialing ( what were they thinking
+[]
+[]
+Neutral
+
+- no option for caller-id pictures or individualized ringtones .
+['individualized']
+[]
+Positive
+
+- no propietary headset jack
+[]
+[]
+Neutral
+
+
+[]
+[]
+Neutral
+
+this bumpy is wicked groovy .
+[]
+['bumpy', 'wicked']
+Negative
+
+i thought it would be haggard but when i be gotted this junky i was mad happy and stuff .
+['happy']
+['haggard', 'junky', 'mad']
+Negative
+
+this junky is super duper rad. it be my fav c-phone and stuff .
+['super', 'fav']
+['junky']
+Positive
+
+so go and buy dis sucka beefo it all be gone an stuffff .
+[]
+[]
+Neutral
+
+aight den bumpy ?
+[]
+['bumpy']
+Negative
+
+word ... peace in the east bruvah .
+['peace']
+[]
+Positive
+
+i love this phone .
+['love']
+[]
+Positive
+
+one of the best cell phones i have ever used to-date .
+['best']
+[]
+Positive
+
+i like the speakphone function a lot .
+['like']
+[]
+Positive
+
+it allows me to place the phone on the table while talking and working on my computer or other jobs .
+[]
+[]
+Neutral
+
+i am very pleased with its quality and durability .
+['pleased']
+[]
+Positive
+
+i like the automatic key lock function .
+['like']
+[]
+Positive
+
+the phone is very light weight .
+[]
+[]
+Neutral
+
+the screen is bright and ring tones are unlimited .
+['bright', 'unlimited']
+[]
+Positive
+
+the fm radio is cool .
+['cool']
+[]
+Positive
+
+most of our emplyees use this model phone .
+[]
+[]
+Neutral
+
+best regards sadoun satellite sales
+['best']
+[]
+Positive
+
+best of the best mobile phone .
+['best']
+[]
+Positive
+
+while going for a cellphone , i was fully determined to buy a nokia only as it is the best in cellphones .
+['best']
+[]
+Positive
+
+after much survey of all the present handsets and recommendations from friends , i bought this nokia 6610 .
+['recommendations']
+[]
+Positive
+
+and really this is the best phone one could have .
+['best']
+[]
+Positive
+
+it has all the features one would need in a cellphone .
+[]
+[]
+Neutral
+
+it is lightweight , sleek and attractive .
+['attractive', 'sleek']
+[]
+Positive
+
+this phone is very user-friendly , easy to manipulate &#38; very convenient to scroll in menu etc .
+['convenient', 'user-friendly', 'easy']
+['manipulate']
+Positive
+
+the time taken in shifting from one menu option to other is in microseconds only .
+[]
+[]
+Neutral
+
+it has fm radio option and i can listen to music anytime .
+[]
+[]
+Neutral
+
+its speakerphone option allows us to do long talks conveniently , lying on bed &#38; phone lying by your pillowside .
+['conveniently']
+['lying']
+Neutral
+
+it comes equipped with lot of wallpapers and polyphonic sweet tunes .
+['sweet']
+[]
+Positive
+
+only if we could get one camera in it . .
+[]
+[]
+Neutral
+
+it did have scored over all other competitors ....
+[]
+[]
+Neutral
+
+i am enjoying my phone a lot ....
+['enjoying']
+[]
+Positive
+
+cool phone !
+['cool']
+[]
+Positive
+
+like some other reviewers , i recieved this phone using t-mobiles upgrade program .
+['like']
+[]
+Positive
+
+i had been comparing the 3650 , 3560 and the 3595 but could n't settle ... then along came the 6610 , which was perfect for me .
+['perfect']
+[]
+Positive
+
+pros :
+['pros']
+[]
+Positive
+
+small size .
+[]
+[]
+Neutral
+
+i love the fact i can carry it in my shirt or pants pocket and forget about it .
+['love']
+[]
+Positive
+
+just make sure the keys are locked .
+[]
+[]
+Neutral
+
+color screen is good .
+['good']
+[]
+Positive
+
+it has lots of features such as the calendar which works like my outlook calendar .
+['works', 'like']
+[]
+Positive
+
+the keys are laid out normal so there is no guessing .
+[]
+[]
+Neutral
+
+navigating through the menus is super easy , especially if you have owned a previous model nokia phone .
+['super', 'easy']
+[]
+Positive
+
+battery life is very good , i use it every day and i have to charge it every 5 or 6 days or so .
+['good']
+[]
+Positive
+
+cons :
+[]
+['cons']
+Negative
+
+not many .
+[]
+[]
+Neutral
+
+the volume key can be hard to press , but i think this may be by design rather than a flaw , perhaps to keep you from pressing it accidentally when you are in a call .
+[]
+['flaw', 'hard']
+Negative
+
+pc cable is too expensive ... $ 50 for a usb cable ?
+[]
+['expensive']
+Negative
+
+please !
+[]
+[]
+Neutral
+
+is this how nokia subsidizes their free pc software ?
+['subsidizes', 'free']
+[]
+Positive
+
+slightly better than average phone in its class .
+['better']
+[]
+Positive
+
+first of all i have been a big nokia fan and have been upgrading my cell phones about once a year ( right after the release contract is over ) .
+['right']
+[]
+Positive
+
+my last phone was a samsung s105 which imo is superior and cheaper to this phone .
+['superior', 'cheaper']
+[]
+Positive
+
+below is how i evaulate this phone with other t-mobile phones which i have borrowed from parents / friends :
+[]
+[]
+Neutral
+
+sound quality :
+[]
+[]
+Neutral
+
+the most important thing for me is sound quality .
+['important']
+[]
+Positive
+
+nokias have always had good sound quality and this is no exception .
+['good']
+[]
+Positive
+
+i think the sound quality of this phone is slightly better than my samsung phone , the motorolla t720 series , and the sony ericsson t610 series .
+['better']
+[]
+Positive
+
+the loud speaker function on the 6610 is great because you do n't need to put your phone right next to your ear to talk .
+['great', 'right']
+['loud']
+Positive
+
+overall design :
+[]
+[]
+Neutral
+
+i like my phones to be small so i can fit it in my pockets .
+['like']
+[]
+Positive
+
+of all these phones the motorolla and the sony ericsson phones are the smallest .
+[]
+[]
+Neutral
+
+the 6610 is the actually the longest but they are all very small .
+[]
+[]
+Neutral
+
+as much as i like nokia phones the flip phones imo are much better because a ) you wont scratch your screens / keys b ) you dont need to lock your phone all the time to prevent accidently hitting the keys .
+['better', 'like']
+['scratch']
+Positive
+
+ease of use :
+['ease']
+[]
+Positive
+
+how easy is it for me to get to a certain menu ?
+['easy']
+[]
+Positive
+
+the samsung phones has a customize function so that you can assign certain functions to directional buttons ( like assign alarm clock to the left directional key ) .
+['like']
+['alarm']
+Neutral
+
+that is a very nice feature .
+['nice']
+[]
+Positive
+
+the 6610 is still easier to use than the other two phones ( t610 , t720i ) .
+['easier']
+[]
+Positive
+
+the sony ericsson phone ( t610 ) has the most whistles and bells , but is also the hardest to use .
+[]
+[]
+Neutral
+
+battery :
+[]
+[]
+Neutral
+
+the nokia , samsung and the sony phones can all last for 3 days provided you do n't talk too much .
+[]
+[]
+Neutral
+
+the motorolla phone have a horrible battery which lasts about a day ( although i heard that the motorolla t722i has a much longer battery life ) .
+[]
+['horrible']
+Negative
+
+features :
+[]
+[]
+Neutral
+
+the t610 has the most functionality hands down .
+[]
+[]
+Neutral
+
+personally i found the integrated digital camera of the t610 to be very nice .
+['integrated', 'nice']
+[]
+Positive
+
+my girlfriend is paranoid when i am not around her and i just take a pic and send it to her on the spot so she can regain her sanity .
+[]
+['paranoid']
+Negative
+
+the t610 can also compose music , a feature which most wo n't use .
+[]
+[]
+Neutral
+
+the 6610 has the radio function which is utterly useless .
+[]
+['useless', 'utterly']
+Negative
+
+it also has a stock tracking app built in ( also useless ) and a somewhat useful application which converts all types of metrics ( currency , length , area , etc ) .
+['useful']
+['useless']
+Neutral
+
+the s105 ( samsung ) has a beautiful big display ( 65,000 colors ) , and i can 't say much about the motorolla .
+['beautiful']
+[]
+Positive
+
+all these phones have color screens , polymorphic tones , and are internet ready .
+['ready']
+[]
+Positive
+
+in music tones department the 6610 has 20 chords ( thats number of different instruments which it can play ) i think , the samsung i think have 15 , i donno about the other phones but i feel the t610 has the best sounding ring tones .
+['best']
+[]
+Positive
+
+regarding pc software support nokia suite does not work with some versions of xp as i tried to connect my phone via infrared port on my laptop .
+['support', 'work']
+[]
+Positive
+
+i called nokia tech support and they blamed microsoft .
+['support']
+[]
+Positive
+
+oh well ..
+['well']
+[]
+Positive
+
+overall this is a slightly better than average phone .
+['better']
+[]
+Positive
+
+both the samsung and the sony phones offer a lot more features than this 6610 .
+[]
+[]
+Neutral
+
+personally i like the samsung phones better because i found myself liking the flip phones so much more .
+['better', 'liking', 'like']
+[]
+Positive
+
+i think there is a good chance i will try to get a samsung flip camera phone next year .
+['good']
+[]
+Positive
+
+if t-mobile does not offer such a phone most likely i will get the t610 .
+[]
+[]
+Neutral
+
+they are all free if you get a new account anyway , but stick to t-mobile if you are going to use your phone overseas because t-mobile actually allows you to unlock your simm cards so that you can buy simm cards cheap from other nations and plug into your phone when you are doing some international travelling .
+['free']
+['cheap']
+Neutral
+
+perfect phone .
+['perfect']
+[]
+Positive
+
+this is the best phone i have seen .
+['best']
+[]
+Positive
+
+i bought 2 .
+[]
+[]
+Neutral
+
+i bought 2 of these phones 2 months ago for myself and my girlfriend .
+[]
+[]
+Neutral
+
+we got a familyplan from t-mobile which saves us tons .
+[]
+[]
+Neutral
+
+the phones are awesome .
+['awesome']
+[]
+Positive
+
+we hardly ever have to charge them , get great reception ( live in chicago ) , and the customization and applications are awesome .
+['awesome', 'great']
+[]
+Positive
+
+here 's a hint : go to nokia.com and get their pc suite and a connection cable if you dont have irda or bluetooth .
+[]
+[]
+Neutral
+
+you can do * so * much more with the pc suite , i.e. free ringtones from midi files , free graphics from any picture on your computer , and if you know how to program jme you can even make your own apps / games .
+['free']
+[]
+Positive
+
+the phone 's sound quality is great ( turn up the volume if its too quiet , people , this thing will get loud ) i dont have any complaints about this phone and the only thing that i miss from my 8290 is voice dialing .
+['great', 'quiet']
+['complaints', 'loud', 'miss']
+Negative
+
+nokia 6610 great for games and ringtones .
+['great']
+[]
+Positive
+
+i bought this slick phone and i am very happy with it .
+['slick', 'happy']
+[]
+Positive
+
+nice and small and excellent when it comes to downloading games , graphics and ringtones from www.crazycellphone.com
+['nice', 'excellent']
+[]
+Positive
+
+nokia 6610 .
+[]
+[]
+Neutral
+
+i just purchased this phone and i think this is the coolest phone i ever had .
+['coolest']
+[]
+Positive
+
+the features are really cool like the radio .
+['like', 'cool']
+[]
+Positive
+
+the first night i got this phone i put it next to me when i went to bed just to listen to my favorite music station and the handset itself doesnt weight anything its too light and feel so comfy with it .
+['favorite', 'comfy']
+[]
+Positive
+
+technology wise , i think this is awesome plus the speaker makes it even great ! ! ! ! i love this phone ! ! !
+['love', 'great', 'wise', 'awesome']
+[]
+Positive
+
+why i do n't can this product without a plan ?
+[]
+[]
+Neutral
+
+i 'm live in brazil and i need very to buy this product without a plan to use in here in other operators .
+[]
+[]
+Neutral
+
+i 'm pay in auto-debit in my account .
+[]
+[]
+Neutral
+
+please , if anyone want sell to me this cell phone in my conditions , i 'm wait very happy .
+['happy']
+[]
+Positive
+
+thanks !
+[]
+[]
+Neutral
+
+excellent , but only gsm ?
+['excellent']
+[]
+Positive
+
+i thought this was the ultimate phone when it comes to basic features , but i was dissapointed when i saw that it was only a gsm comaptible phone .
+[]
+['dissapointed']
+Negative
+
+as i travel quite a lot , i 'd want something with gsm as well as cdma tri-band .
+['well']
+[]
+Positive
+
+for a specific location , i still think its a great phone .
+['great']
+[]
+Positive
+
+i really think .
+[]
+[]
+Neutral
+
+i think that it is a were good mobile phone and i may buy it .
+['good']
+[]
+Positive
+
+great phone , but what did you say ?
+['great']
+[]
+Positive
+
+this really is a great little phone ; its got nice features , a beatiful screen , great ergonomics , and its tiny !
+['great', 'nice']
+[]
+Positive
+
+i waited a few years between phones , mostly because ( like most i think ) i didnt really need one .
+['like']
+[]
+Positive
+
+this phone won me over , and a big seller was the size ; it fits nicely into any pocket without falling out .
+['nicely', 'won']
+['falling']
+Positive
+
+the downside though , may be a big one for you .
+[]
+['downside']
+Negative
+
+its quiet .
+['quiet']
+[]
+Positive
+
+really quiet .
+['quiet']
+[]
+Positive
+
+grandma in church quiet .
+['quiet']
+[]
+Positive
+
+i 've gotten used to it ( holding it in just the right realation to the ear , ducking into quieter places in bars ) but when others borrow it they 're shocked i can use it .
+['quieter', 'right']
+['shocked']
+Positive
+
+so , i recomend it , but not for those that have any hearing troubles , or for those that like to talk a lot in crowded public places ( which is annoying , by the way . )
+['recomend', 'like']
+['annoying', 'troubles', 'crowded']
+Negative
+
+incredibly pleased .
+['incredibly', 'pleased']
+[]
+Positive
+
+i bought this phone when it first came out in the summer .
+[]
+[]
+Neutral
+
+prior to my switch to t-mobile , sprint was my service provider .
+[]
+[]
+Neutral
+
+to say the least , i was horribly dissatisified with my service with sprint , which was why t-mobile was so fantastically refreshing .
+['fantastically', 'refreshing']
+[]
+Positive
+
+my past two phones were all flip phones , and i was beginning to tire of them .
+[]
+[]
+Neutral
+
+nokia was my first nonflip phone , and i 'm glad i decided to go with them .
+['glad']
+[]
+Positive
+
+first of all , my calls were loud and clear , unlike with sprint .
+['clear']
+['loud']
+Neutral
+
+i could make phone calls from locations i previously could not ( like my apartment ) .
+['like']
+[]
+Positive
+
+the phone is small , light , and very attractive .
+['attractive']
+[]
+Positive
+
+the battery life is amazing .
+['amazing']
+[]
+Positive
+
+the color screen is a plus , as are the polyphonic ringtones .
+[]
+[]
+Neutral
+
+i 'm not one who uses web browsing , so this phone easily met and surpassed my needs .
+[]
+[]
+Neutral
+
+i highly recommend this phone to anyone .
+['recommend']
+[]
+Positive
+
+i 've yet to be dissappointed .
+[]
+['dissappointed']
+Negative
+
+
+[]
+[]
+Neutral
+
+nokia 6610 ( sound quality ) the phone is great with very cool features &#38; options , but comparing to my older motorola phone , it gets a failing grade in speaker quality .
+['great', 'cool']
+['failing']
+Positive
+
+i do here a constant high-pitched distorted sound , not to mention the volume does not seem to be loud enough .
+['enough']
+['loud', 'distorted']
+Negative
+
+it 's going back today , &#38; being replaced with the new samsung x105 .
+[]
+[]
+Neutral
+
+you do take your chances with this phone .
+[]
+[]
+Neutral
+
+ultimate phone for mobile life .
+[]
+[]
+Neutral
+
+i considered this phone ( nokia 6610 ) , mainly because of my sister and the features .
+[]
+[]
+Neutral
+
+it is a great phone , if you are traveling all over the world , packed with wonderful features .
+['great', 'wonderful']
+[]
+Positive
+
+truly , i am quite impressed . . ! !
+['impressed']
+[]
+Positive
+
+this is a very light phone - a little less than 3 oz , with long battery life ( not as long as the new polymer technology ) .
+[]
+[]
+Neutral
+
+on an average , you would charge it once a week .
+[]
+[]
+Neutral
+
+the hands-free speakerphone is quite powerful ( like the motorola phone , i used to own ) .
+['powerful', 'like']
+[]
+Positive
+
+i simply love this feature .
+['love']
+[]
+Positive
+
+in addition it comes with a sleek and powerful headset .
+['powerful', 'sleek']
+[]
+Positive
+
+the built in fm radio is excellent for people traveling by public transport .
+['excellent']
+[]
+Positive
+
+if you buy the stereo headset , you will enjoy it much more .
+['enjoy']
+[]
+Positive
+
+the pc sync feature is superb that comes with nokia pc suite software ( with data cable or infrared port or bluetooth ) .
+['superb']
+[]
+Positive
+
+no more hazzles of keying in all data , using the small phone keypad .
+[]
+[]
+Neutral
+
+just maintain them ( phonebook , calendar and to-do list ) in ms outlook or lotus notes and transfer data back and forth .
+[]
+[]
+Neutral
+
+additionally , it has more fun stuff like more tones , wallpapers , screensaver , stop clock , alarm , java applications ( chess , currency converter etc. )
+['fun', 'like']
+['alarm']
+Positive
+
+the mobile text messaging , chat , picture sharing etc. other nicities , that you would enjoy .
+['enjoy']
+[]
+Positive
+
+the mms technology is very well integrated with this phone , which you will enjoy .
+['enjoy', 'well', 'integrated']
+[]
+Positive
+
+the built-in camera they offer these days is more of kids stuff .
+[]
+[]
+Neutral
+
+if you have a good digital camera , there is no reason to consider the camera capabilities of a mobile phone .
+['good']
+[]
+Positive
+
+however , if you are keen , you can attach a camera to this phone .
+['keen']
+[]
+Positive
+
+i have not yet discovered the internet features yet , which i will be doing soon .
+[]
+[]
+Neutral
+
+i felt that i should write this comment asap , as i am quite excited in using its features .
+['excited']
+[]
+Positive
+
+i can recommend this phone to anyone , anytime .
+['recommend']
+[]
+Positive
+
+awesome phone choice .
+['awesome']
+[]
+Positive
+
+after using the bulky 3650 for three weeks , i searched for a smaller alternative .
+[]
+['bulky']
+Negative
+
+i was immediately interested in the 6610 .
+[]
+[]
+Neutral
+
+i have used this phone for two months now .
+[]
+[]
+Neutral
+
+not only is it the perfect size ( not too small , not too large ) , it also has all the features a high-tech phone user would want .
+['perfect']
+[]
+Positive
+
+if you can live without an integrated camera , you wo n't miss much more .
+['integrated']
+['miss']
+Neutral
+
+in true nokia style , the phone is simple to use and despite its delicate appearance , this little guy is as durable as other nokias i have owned .
+['durable', 'delicate']
+[]
+Positive
+
+the phone book is very user-friendly and the speakerphone is excellent .
+['user-friendly', 'excellent']
+[]
+Positive
+
+even better , with the optional headset you can listen to music over the integrated radio .
+['better', 'integrated']
+[]
+Positive
+
+if there are any drawbacks to this phone here they are .
+[]
+['drawbacks']
+Negative
+
+although i find it more convenient to use 1-touch dialing , this phone does not have voice dialing .
+['convenient']
+[]
+Positive
+
+the keypad is a decent size , but the power on/off key is small and difficult to press .
+['decent']
+['difficult']
+Neutral
+
+however , the battery life is good enough you should n't be overly concerned with turning this phone off .
+['enough', 'good']
+['concerned']
+Positive
+
+in my opinion the worst issue on this phone is the side-mounted volume control .
+[]
+['issue', 'worst']
+Negative
+
+it requires significant force to operate which can be scary on such a small phone .
+['significant']
+['scary']
+Neutral
+
+one other issue is that the headphone jack is unique to nokia , so standard headphones will not work .
+['work']
+['issue']
+Neutral
+
+overall this is the best phone i have ever owned .
+['best']
+[]
+Positive
+
+any disadvantages are easily outweighed by its advantages .
+['advantages']
+['disadvantages']
+Neutral
+
+nokia does not disappoint in this model .
+[]
+['disappoint']
+Negative
+
+go for it !
+[]
+[]
+Neutral
+
+awesome phone , great prices on amazon.com .
+['great', 'awesome']
+[]
+Positive
+
+i could n't be happier with t-mobile either , i switched from cingular .
+['happier']
+[]
+Positive
+
+one complaint ... the screen is too easily scratched !
+[]
+['scratched', 'complaint']
+Negative
+
+but there are faceplates to replace it i guess ...
+[]
+[]
+Neutral
+
+almost there .
+[]
+[]
+Neutral
+
+i got this phone in t-mobile 's current customer retention program for very little money and no contract renewal .
+[]
+[]
+Neutral
+
+i was getting so sick of my old motorola l7089 , but was waiting for the right phone to come along .
+['right']
+['sick']
+Neutral
+
+this is almost it but not quite but the price was right .
+['right']
+[]
+Positive
+
+that said this phone does what it does extremely well - way better than anything motorola can produce .
+['better', 'well']
+[]
+Positive
+
+it has great battery life , fm radio , excellent signal , hands free speakerphone ( which i have to say is probably my favorite function ) and downloadable java apps .
+['great', 'favorite', 'free', 'excellent']
+[]
+Positive
+
+what it lacks for me is n't available on one phone yet , namely gsm850 ( also sometimes known as gsm800 ) , bluetooth and edge .
+['available']
+['lacks']
+Neutral
+
+so when the quad bands start appearing i will be upgrading again .
+[]
+[]
+Neutral
+
+but for now this will do .
+[]
+[]
+Neutral
+
+oh and before anyone comments yes i know motorola have announced a quad band edge bluetooth phone , but its not shipping at time of writing and the tri-band gsm850 phones lack the gsm900 band which is important if you like me globally roam .
+['important', 'like']
+['lack']
+Positive
+
+great phone .. .
+['great']
+[]
+Positive
+
+great features .. .
+['great']
+[]
+Positive
+
+great plan .
+['great']
+[]
+Positive
+
+i purchased this phone after having been an at &#38; t subscriber with a nokia 8260 phone for over three years .
+[]
+[]
+Neutral
+
+i did a ton of research and settled on this phone because of the small size , speakerphone option , great priced calling plan and access to my corporate email .
+['great']
+[]
+Positive
+
+i went to an at &#38; t store before i bought this phone to see if it was possible to get corporate email with any of their services and they looked at me like i had three heads .
+['like']
+[]
+Positive
+
+they told me i would have to connect to my laptop , which had to be on and connected to my corporate network through the phone in order to access my corporate email .
+[]
+[]
+Neutral
+
+with the t-mobile unlimited t-zones for $ 10 , i can check any number of email addresses and use unlimited internet .
+['unlimited']
+[]
+Positive
+
+i have had no problems with the phone .
+[]
+['problems']
+Negative
+
+friends of mine are always asking about it and wanting to use it .
+[]
+[]
+Neutral
+
+i 've even had one friend buy one immediately after a test drive .
+[]
+[]
+Neutral
+
+great phone , i 'd buy another .
+['great']
+[]
+Positive
+
+excellent phone .
+['excellent']
+[]
+Positive
+
+excellent phone , the phone looks much better than what u see in the pictures .
+['better', 'excellent']
+[]
+Positive
+
+bluetooth functionality would have made the phone even better .
+['better']
+[]
+Positive
+
+one more thing , the default ringtones that come with the phone are horrible .
+[]
+['horrible']
+Negative
+
+overall an excellent phone .
+['excellent']
+[]
+Positive
+
+the service from t-mobile is very good too .
+['good']
+[]
+Positive
+
+in all a winning combination .
+['winning']
+[]
+Positive
+
+worth every penny !
+['worth']
+[]
+Positive
+
+great phone , easy to use , excellent network , no regrets ! ! !
+['great', 'easy', 'excellent']
+['regrets']
+Positive
+
+yo what a find .
+[]
+[]
+Neutral
+
+i purchased this phone for just 50 $ and there is no end to what i can do with it .
+[]
+[]
+Neutral
+
+nokia and t-mobile really teamed up well on this baby .
+['well']
+[]
+Positive
+
+it puts an end to organizational deficiencies as well as communications and internet , without a bulky phone like the treo or something , which i had to cell because i was so unhappy with it .
+['well', 'like']
+['bulky', 'deficiencies', 'unhappy']
+Negative
+
+now my little 6610 is the most coveted item at school !
+[]
+[]
+Neutral
+
+people have paid me money just to borrow it because its so elegant .
+['elegant']
+[]
+Positive
+
+service is great as far as i can tell , features work like a charm , ringtones are high quality if you buy them from t-mobile and aim is great .
+['great', 'work', 'charm', 'like']
+[]
+Positive
+
+now i can always be in contact .
+[]
+[]
+Neutral
+
+this is probably your best bet if you are looking for a phone in this price range , or like me , do not have the patience to deal with annoying flip phones .
+['patience', 'like', 'best']
+['annoying']
+Positive
+
+a great deal in general !
+['great']
+[]
+Positive
+
+i would not give up this phone for the world .
+[]
+[]
+Neutral
+
+1 month , no problems , great phone i 'm very pleased with my 6610 phone .
+['great', 'pleased']
+['problems']
+Positive
+
+yes , the features are numerous .
+[]
+[]
+Neutral
+
+the speakerphone works better than any speakerphone i 've ever had .
+['better', 'works']
+[]
+Positive
+
+people i talk to on the speakerphone are shocked when it comes out at times that i 'm even using a speakerphone .
+[]
+['shocked']
+Negative
+
+the sound quality is excellent , except , maybe a * tad * too quiet at times when there are quieter talkers on the other end of the line .
+['quieter', 'quiet', 'excellent']
+[]
+Positive
+
+the included earpiece is very comfortable and easy to use .
+['easy', 'comfortable']
+[]
+Positive
+
+i have not had any distortion problems with this phone and am more pleased with this phone than any i 've used before .
+['pleased']
+['problems', 'distortion']
+Negative
+
+nokia has definitely won me over with this one .
+['won']
+[]
+Positive
+
+best phone out there ... a+ not only is this the best phone out there but is cheap ( free ! ! ) .
+['a+', 'best', 'free']
+['cheap']
+Positive
+
+first let me say that it is much smaller than it looks on the web and it also looks better .
+['better']
+[]
+Positive
+
+the radio feature has superb sound quality .
+['superb']
+[]
+Positive
+
+i 've compared this phone to others such as 6100 , siemens sl55 .
+[]
+[]
+Neutral
+
+even though they might be smaller many people seem to have alot of problems with them .
+[]
+['problems']
+Negative
+
+it has a classic design yet looks hip .
+['classic']
+[]
+Positive
+
+is a lot better compared to the toy phone design of the nokia 7210 with its cheap feel .
+['better']
+['cheap']
+Neutral
+
+it is extremely light and dissapears in your pocket .
+[]
+[]
+Neutral
+
+for those that are looking for camera phones just get the camera attachement and comes with the stereo headphones to listen to the radio in style .
+[]
+[]
+Neutral
+
+the battery is alot better than most of the phones out there .
+['better']
+[]
+Positive
+
+one thing that i found out recently is that you do n't need t-zones from tmobile to go online .
+[]
+[]
+Neutral
+
+every t-mobile plan comes with gsm data , meaning that instead of speeds of 56 kbps is around 9 kbps ( with those small size wap websites do you really think it makes a difference ) .
+[]
+[]
+Neutral
+
+anyways there are ways to set up your 6610 to connect to csd which uses regular minutes and you are surfing the net , being able to download pics and ringtones ( not java apps , you need t-zones for that ) .
+[]
+[]
+Neutral
+
+tmobiles might not have the best reception in some areas but with amazing phones such as nokia 6610 and cheap plans that you get way more minutes than any other plans .
+['amazing', 'best']
+['cheap']
+Positive
+
+if you thought about getting this phone buy it .
+[]
+[]
+Neutral
+
+this phone is great as a whole and is not like others with one or two good qualities .
+['great', 'good', 'like']
+[]
+Positive
+
+6610 = great phone and a few extras i am a person that needs my phone ( s ) on demand .
+['great']
+[]
+Positive
+
+i currrently have service with t-mobile , verizon , and t-mobile .
+[]
+[]
+Neutral
+
+the reason so many is that i am a contractor and all of my subs have these carriers and i can benifit from the mobile to mobile features that companies are now offering !
+[]
+[]
+Neutral
+
+that beside you are prob. very well aware of many of the features that this phone is known for , and one that has not yet been mentioned : using this phone as a modem for any computer with a usb 1.0 port !
+['well']
+[]
+Positive
+
+using the gprs option you can pay 19.99 extra a month and have unlimited internet access added to you account .
+['unlimited']
+[]
+Positive
+
+yes it is 56k speed , but the functionality is what you are paying for .
+[]
+[]
+Neutral
+
+i myself find this great for when i am at a site i can run to my truck and hook up my modem cable ( 49.99 @ nokiausa.com or t-mobile.com ) press dial up on my laptop ( by the way it is a mac pb 1gz. and in a matter of seconds i can access my email , fax , and the entire web from my truck !
+['great']
+[]
+Positive
+
+the only problem that i have found with the internet service is that it does not access mls ( real estate broker software ) very well at all .
+['well']
+['problem']
+Neutral
+
+i find a great amount of value in this option for any and all the people that travel buy car and do not have access to the t-mobile " hot-spots " .
+['great']
+[]
+Positive
+
+it does well in all aspects of internet browsing .
+['well']
+[]
+Positive
+
+as i also leave you with this review i would like to thank you for reading it .
+['like', 'thank']
+[]
+Positive
+
+sound good but complicated .
+['good']
+['complicated']
+Neutral
+
+do too many stuffs to get to a free phone after rebate .
+['free']
+[]
+Positive
+
+also , if i want a family plan , which mean i need tw phones on a plan .. .
+[]
+[]
+Neutral
+
+so how can i do that ... are n't that free for two after the rebates .
+['free']
+[]
+Positive
+
+and how can i do that ... .
+[]
+[]
+Neutral
+
+print those coupons twice for two phones ?
+[]
+[]
+Neutral
+
+...
+[]
+[]
+Neutral
+
+do n't have the phone just commenting .
+[]
+[]
+Neutral
+
+i saw another review saying his only gripe was a lack of voice dialing .
+[]
+['lack', 'gripe']
+Negative
+
+the phone does have voice dialing according to amazon & t-mobile and nokia .
+[]
+[]
+Neutral
+
+the phone may look large but it is very small smaller then the 3390 phone .
+[]
+[]
+Neutral
+
+my sister has this series of phone and she loves the radio and headset .
+['loves']
+[]
+Positive
+
+i find the lack of entertaining games on this phone quite disturbing .
+['entertaining']
+['disturbing', 'lack']
+Negative
+
+i do n't really like bounce .
+['like']
+[]
+Positive
+
+i have always known nokia to provide me with good games on their phones .
+['good']
+[]
+Positive
+
+battery life is good for a phone of this size .
+['good']
+[]
+Positive
+
+but anyway , the only thing you should really look at here is the fact that the phone does have voice dialing .
+[]
+[]
+Neutral
+
+great screen and great sound .
+['great']
+[]
+Positive
+
+ok , everybody loves the fm radio in this , but you want a cell phone first , right ?
+['right', 'loves']
+[]
+Positive
+
+the 6610 excels as a cell phone , thank god .
+['thank', 'excels']
+[]
+Positive
+
+the voice quality is very good , and it gets great reception ( that is , in places where you get t-mobile coverage , which is not that good ; see below ) .
+['great', 'good']
+[]
+Positive
+
+the color screen makes this free-after-rebates phone shine bright , and commands are very responsive .
+['shine', 'responsive', 'bright']
+[]
+Positive
+
+my only gripe about the hardware is the buttons .
+[]
+['gripe']
+Negative
+
+nokia seems on a campaign to revamp the phone keypad , which imho is totally unnecessary .
+[]
+['unnecessary']
+Negative
+
+this model does have the traditional key arrangement , it 's just that they are really close to one another , and have unconventional shapes , so it takes a big getting used to for someone like me with big hands .
+['like']
+[]
+Positive
+
+( to be fair , the same can be said about many korean imports , and the nokia 's build quality is light years ahead of the koreans . )
+['fair']
+[]
+Positive
+
+other than that , this is a perfect phone for those of us with no patience for flips .
+['perfect', 'patience']
+[]
+Positive
+
+finally , i reiterate my thumbs-down rating for t-mobile as a carrier .
+[]
+['thumbs-down']
+Negative
+
+their network coverage is very sporadic , and the network always seems overloaded , resulting in very unpleasant calling experience .
+[]
+['unpleasant', 'overloaded', 'sporadic']
+Negative
+
+if you can get this phone for cingular or at&t , go with the other carriers .
+[]
+[]
+Neutral
+
+great phone , great service , no voice dialing .
+['great']
+[]
+Positive
+
+the nokia 6610 is a relatively new phone , and what a great phone it is .
+['great']
+[]
+Positive
+
+when i first saw the 6610 , i thought it was too small .
+[]
+[]
+Neutral
+
+after using it , i found the size to be perfect for carrying in a pocket .
+['perfect']
+[]
+Positive
+
+it is just a tad small to hold to your ear with your shoulder , but that is solved with the very comfortable handsfree ear-piece which is included .
+['comfortable']
+[]
+Positive
+
+the ear-piece has a button that answers and hangs-up the phone so you do not have to mess with the phone at all , unless dialing a number .
+[]
+['mess']
+Negative
+
+unfortunately , the 6610 does not offer voice dialing like my previous phone , but the other features it packs outweighs this shortcoming .
+['like']
+['shortcoming', 'unfortunately']
+Negative
+
+when i turned the phone on , the first thing that hit me is how good the screen is .
+['good']
+[]
+Positive
+
+the resolution is very good and the colors are bright and even changeable !
+['bright', 'good']
+[]
+Positive
+
+the phone has several color schemes you can choose from .
+[]
+[]
+Neutral
+
+i like the default blue .
+['like']
+[]
+Positive
+
+you can also set a background wallpaper .
+[]
+[]
+Neutral
+
+the ringtones included are awesome , and did i mention they were polyphonic ?
+['awesome']
+[]
+Positive
+
+no more annoying series of beeps .
+[]
+['annoying']
+Negative
+
+this phone plays up to 4 tones at one time and it actually sounds like music .
+['like']
+[]
+Positive
+
+you can also assign special rings and graphics to special people when they call .
+[]
+[]
+Neutral
+
+the massive phonebook can hold 300 entries , with multiple phone number per entry , so you can program your boss 's home , work and cellphone numbers all under one contact .
+['work']
+[]
+Positive
+
+the phone also sports an image gallery ( with option camera attachment ) , a calendar / organizer , alarm clock with snooze , fm radio ( way cool , even if it is just through an ear-peice ) , games , java applications and gprs high-speed internet connection .
+['cool']
+['alarm']
+Neutral
+
+the gprs connection is sometimes slow , and writing instant messages with the included aol instant messenger software is a pain , but the other t-zones applications are quite useful .
+['useful']
+['slow', 'pain']
+Negative
+
+you can get weather , movies , horoscopes and more with a few clicks .
+[]
+[]
+Neutral
+
+the service deafults to showing the information associated with your billing zip code , but you can change the default and seach other areas while on the go .
+[]
+[]
+Neutral
+
+one downside : as of this writing , t-mobile has n't updated their t-zone system to fully support the 6610 .
+['support']
+['downside']
+Neutral
+
+their website does not show it as a compatible phone , and should i try to access the game downloads on t-zones the system returns an error message saying my phone is not supported .
+['compatible', 'supported']
+['error']
+Positive
+
+i have been assured this will be fixed soon .
+[]
+[]
+Neutral
+
+now , for the t-mobile service :
+[]
+[]
+Neutral
+
+i cannot say enough good things about the people who answer the phones .
+['enough', 'good']
+[]
+Positive
+
+if you have a question , they have the answer .
+[]
+[]
+Neutral
+
+and should they not know it , they can find it out pretty quick .
+['pretty']
+[]
+Positive
+
+every phone experience has started with a very brief time on hold followed by a cheerful representative answering the phone .
+['cheerful']
+[]
+Positive
+
+all my questions or problems have been quickly and satisfactorily resolved .
+['satisfactorily']
+['problems']
+Neutral
+
+i 'd like to see my old carrier do that !
+['like']
+[]
+Positive
+
+the rate plans are also very good , at least for me .
+['good']
+[]
+Positive
+
+different people have different needs , of course , but the t-mobile plans are priced very well for the minutes and services you receive .
+['well']
+[]
+Positive
+
+the phone would have received 5 stars if the phone had voice dialing and the game downloads from t-zones worked .
+['worked']
+[]
+Positive
+
+this phone is highly recommended otherwise .
+['recommended']
+[]
+Positive
+
+t-mobile ruins an otherwise good phone .
+['good']
+['ruins']
+Neutral
+
+nokia makes a great phone , that 's clear .
+['great', 'clear']
+[]
+Positive
+
+with all its complicated features , the menus are easily accessible and the quality of the features is great .
+['accessible', 'great']
+['complicated']
+Positive
+
+the one huge disappointment is that the phones manufactured for t-mobile lack many of the menus and functions that a nokia straight from the manufacturer should have .
+[]
+['lack', 'disappointment']
+Negative
+
+one of the things t-mobile brags about is the fact that it 's a " worldphone " and can be used in europe , etc.
+[]
+[]
+Neutral
+
+yet they 've gotten rid of most of the languages that should be in the phone , including italian , german , and dutch .
+[]
+[]
+Neutral
+
+the internet functions of the phone - wap and gprs - will only work through t-mobile 's services , because they have deleted the menu options that would enable you to configure the phone to be used on a different network .
+['work']
+[]
+Positive
+
+therefore , if you wanted to travel abroad and pop in a local sim card , even if you unlock the phone , there is no way you can use the local wap browser or internet .
+[]
+[]
+Neutral
+
+after spending hours being transferred from one tech help person to another , i got fed up and have decided to return the phone .
+[]
+[]
+Neutral
+
+bottom line , if you 're attracted to this phone because of its tri-band feature so you can take it abroad , forget it .
+[]
+[]
+Neutral
+
+find another phone , or buy this one in its manufacturer-unlocked form .
+[]
+[]
+Neutral
+
+a good phone .
+['good']
+[]
+Positive
+
+this phone is good with a huge array of features built into it .
+['good']
+[]
+Positive
+
+i purchased the phone last week and have been using till then . .
+[]
+[]
+Neutral
+
+i did n't had any problem till now .
+[]
+['problem']
+Negative
+
+the design is sleek and the color screen has good resolution .
+['good', 'sleek']
+[]
+Positive
+
+it is very light weight and has a good signal strength .
+['good']
+[]
+Positive
+
+however , the main problem that i think is the with the sound quality .
+[]
+['problem']
+Negative
+
+it is not as good as the samsung phones that i have used earlier .
+['good']
+[]
+Positive
+
+when talking the voice is not very clear .
+['clear']
+[]
+Positive
+
+but , i would definately recommend this phone .
+['recommend']
+[]
+Positive
+
+go for it ...
+[]
+[]
+Neutral
+
+people with bad audio quality have defective phones .
+[]
+['bad', 'defective']
+Negative
+
+i have read a lot of the reviews and my phone does not have a hiss or anything that people are talking about .
+[]
+['hiss']
+Negative
+
+it is crystal clear .
+['clear']
+[]
+Positive
+
+this is one of the nicest phones nokia has made .
+['nicest']
+[]
+Positive
+
+i do recommend getting the data kit for those geeks .
+['recommend']
+[]
+Positive
+
+there are a lot of cool websites with games and midi ringtones to download for free .
+['free', 'cool']
+[]
+Positive
+
